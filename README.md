@@ -1,0 +1,1 @@
+A very simple command set if you want to use [Talon only for eye tracking](https://talon.wiki/hardware/#eye-tracker).
